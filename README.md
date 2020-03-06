@@ -1,0 +1,2 @@
+# Ucztujacy_filozofowie
+Aplikacja rozwiązująca wielowątkowy problem ucztujących filozofów
