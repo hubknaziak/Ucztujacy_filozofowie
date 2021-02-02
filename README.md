@@ -1,4 +1,4 @@
 # Ucztujacy_filozofowie
-Aplikacja rozwiązująca wielowątkowy problem ucztujących filozofów
+Application solving a multi-thread problem of a feasting philosophers.
 
-Plik wykonywalny znajduje się w folderze out->artifacts->Ucztujacy_filozofowie_jar
+Execututable file is located in folder: out->artifacts->Ucztujacy_filozofowie_jar
